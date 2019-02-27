@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobilePhone</string>
+    <string name="mobile_list">MOBILE LIST</string>
+    <string name="favorite_list">FAVORITE LIST</string>
+</resources>
